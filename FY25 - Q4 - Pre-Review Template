@@ -1,0 +1,346 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>My Email Subject</title><meta name="referrer" content="never"><meta type="xrm/designer/setting" name="type" value="marketing-designer-content-editor-document"><meta type="xrm/designer/setting" name="layout-editable" value="marketing-designer-layout-editable"><meta type="xrm/designer/setting" name="layout-max-width" value="600px" datatype="text" label="Layout max width"><meta type="xrm/designer/setting" name="font-family" value="sans-serif" datatype="font" label="Font Family"><meta type="xrm/designer/setting" name="body-text-size" value="14px" datatype="text" label="Body Font Size"><meta type="xrm/designer/setting" name="body-text-color" value="#0a0d31" datatype="color" label="Body Text Color"><meta type="xrm/designer/setting" name="outer-background" value="#FFFFF" datatype="color" label="Email Background"><style>
+@font-face { font-family: InterTight-VariableFont_wght; font-display: swap; src: url("https://assets-usa.mkt.dynamics.com/07b140d7-3b8b-4e1f-8ee5-c5be0ae677ee/digitalassets/fonts/9381631d-cb13-f011-998a-000d3a1db691"); }
+        body, div {  
+            font-family: /* @font-family */ sans-serif /* @font-family */;
+            font-size: /* @body-text-size */14px/* @body-text-size */;
+            color: /* @body-text-color */ #0a0d31 /* @body-text-color */;
+            background-color: /* @outer-background */#fff/* @outer-background */;
+        }
+        .designer-unconfiguredcontent-overlay {  
+            width: 100%;
+        }
+        div[data-editorblocktype="Image"] .designer-unconfiguredcontent-overlay {  
+            position: absolute;
+            left: 0px;
+            top: 0px;
+        }
+        div[data-editorblocktype="Image"] {  
+            position: relative;
+        }
+        .designer-content-editor-hidden {  
+            display: none !important;
+        }
+        div div {  
+            background-color: transparent;
+        }
+        [data-layout="true"] {  
+            margin: 0px auto;
+            max-width: /* @layout-max-width */600px/* @layout-max-width */;
+            border: medium;
+            background-color: rgb(255, 255, 255);
+        }
+        :root {  
+            --brand-color1: #7a68ae;
+        }
+        body {  
+            font-family: Arial, Verdana, sans-serif;
+            font-size: 14px;
+            color: rgb(0, 0, 0);
+            background-color: rgb(243, 246, 249);
+        }
+        h1 {  
+            color: rgb(0, 0, 0);
+            font-size: 34px;
+            font-weight: normal;
+            font-family: Verdana, Arial, sans-serif;
+            line-height: inherit;
+            text-align: left;
+            margin: 0px;
+        }
+        h2 {  
+            color: rgb(51, 51, 51);
+            font-size: 24px;
+            font-weight: normal;
+            font-family: sans-serif;
+            line-height: inherit;
+            text-align: left;
+            margin: 0px;
+        }
+        h3 {  
+            color: rgb(0, 0, 0);
+            font-size: 16px;
+            font-weight: normal;
+            font-family: Verdana, Arial, sans-serif;
+            line-height: inherit;
+            text-align: left;
+            margin: 0px;
+        }
+        p {  
+            font-family: Arial, Verdana, sans-serif;
+            font-size: 14px;
+            color: rgb(0, 0, 0);
+            line-height: inherit;
+            font-weight: normal;
+            text-align: left;
+        }
+        a {  
+            font-family: sans-serif;
+            font-size: inherit;
+            font-weight: normal;
+            color: rgb(122, 104, 174);
+            text-decoration: none;
+        }
+        .buttonWrapper {  
+            margin: 10px 0px;
+        }
+        .buttonClass {  
+            font-family: sans-serif;
+            font-size: 16px;
+            font-weight: normal;
+            border-radius: 4px;
+            color: white;
+            border: medium;
+            background-color: rgb(122, 104, 174);
+            padding: 10px 20px;
+            text-decoration: none;
+        }
+        .buttonClass span {  
+            font-family: inherit;
+            text-decoration: inherit;
+        }
+</style></head><body><div data-layout="true" data-layout-version="v2" style="max-width: 600px; margin: auto;"><div data-section="true" class="columns-equal-class wrap-section" style="margin: 0px; border-radius: 0px;"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 600px; display: block;" role="presentation"><tbody><tr><th style="padding: 10px; border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;" role="presentation"><table style="width: 100%; border-collapse: collapse;" class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation"><tbody><tr><th data-container="true" class="columnContainer" data-container-width="100" style="min-width: 20px; width: 580px; height: 0px;" id="containerfdb102f122ed61647868141605" role="presentation"><table width="100%" cellpadding="0" cellspacing="0" role="presentation" style="height: 100%;"><tbody><tr><th class="inner ui-sortable" style="min-width: 20px; padding: 10px 10px 0px; vertical-align: top;  word-wrap: break-word; word-break: break-word; font-weight: normal;" role="presentation"><div data-editorblocktype="Image" style="padding: 0px; margin: 0px;"><div align="Center" class="imageWrapper" data-image-file-id="b9835d33-e1cc-ee11-9079-000d3a573a0d"><a href="https://spectralogic.com/features/library-management-software/?utm_source=email&amp;utm_medium=banner&amp;utm_campaign=lumost950#_msdynmkt_donottrack=0,_msdynmkt_linkid=f0b6c800-52cc-4631-ba6b-474aab70b3c4" data-msdyn-tracking-id="acb3a28ddd57e1743796824218"><img src="https://assets-usa.mkt.dynamics.com/07b140d7-3b8b-4e1f-8ee5-c5be0ae677ee/digitalassets/images/b9835d33-e1cc-ee11-9079-000d3a573a0d?ts=638436946190915540" style="max-height: 100%; max-width: 100%; box-sizing: border-box; border-radius: 0px; display: block;"></a></div></div></th></tr></tbody></table></th></tr></tbody></table></th></tr></tbody></table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section" style="margin: 0px; border-radius: 0px;"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;">
+                  <tbody>
+                      <tr>
+                          <th style="padding: 0px; border-color: rgb(10, 13, 49); border-width: 0px; border-style: none; border-radius: 0px;">
+                  <table style="width: 100%;
+                border-collapse: collapse;" class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                      <tbody>
+                      <tr>
+                          <th data-container="true" class="columnContainer" data-container-width="100.00" style="vertical-align: top; min-width: 5px; width: 600px; padding: 0px; height: 0px;" id="container543c000fa99fe1744042974237">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                              <tbody>
+                              <tr>
+                                  <th class="inner" style="min-width: 5px; padding: 0px; vertical-align: top;  word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; background-color: rgba(0, 0, 0, 0); border-color: rgb(10, 13, 49); border-width: 0px; border-style: none; border-radius: 0px; font-weight: normal;">
+                                  <div data-editorblocktype="Divider" style="margin: 10px 0px; padding: 0px;"><div class="dividerWrapper" align="center"><table style="padding: 0px; margin: 0px; width: 100%; border-collapse: collapse;" role="presentation" cellpadding="0" cellspacing="0"><tbody><tr style="padding: 0px;"><th style="margin: 0px; padding: 0px; vertical-align: top; border-top-width: 5px; border-top-style: solid; border-top-color: rgb(122, 104, 174);"><p style="margin: 0px; padding: 0px; line-height: 0px; width: 100%;"><span><!--[if gte mso 9]><br/><![endif]-->&nbsp;</span></p></th></tr></tbody></table></div></div></th>
+                              </tr>
+                              </tbody>
+                          </table>
+                          </th>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </th>
+              </tr>
+              </tbody>
+          </table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;">
+                  <tbody>
+                      <tr>
+                          <th style="padding: 10px">
+                  <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                      <tbody>
+                      <tr>
+                          <th data-container="true" class="columnContainer" data-container-width="100" style="vertical-align:top; min-width: 5px; width: 580px; ; height: 0px;" id="container5c1a96150de9f1744043033729">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                              <tbody>
+                              <tr>
+                                  <th class="inner" style="min-width: 5px; padding: 10px; vertical-align: top;  word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                  <div data-editorblocktype="Text" style="margin: 30px 0px 0px;"><h2>Lorem ipsum dolor sit amet.</h2></div><div data-editorblocktype="Text" style="margin: 10px 0px 0px;"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div></th>
+                              </tr>
+                              </tbody>
+                          </table>
+                          </th>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </th>
+              </tr>
+              </tbody>
+          </table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section" style="margin: 0px; border-radius: 0px;"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;" role="presentation">
+                  <tbody>
+                      <tr>
+                          <th style="padding: 10px 10px 2px; border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;" role="presentation">
+                  <table style="width: 100%;
+                border-collapse: collapse;" class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                      <tbody>
+                      <tr>
+                          <th data-container="true" class="columnContainer" data-container-width="100" style="vertical-align:top; min-width: 5px; width: 580px; ; height: 0px;" id="containerb0ea176231c981743787726677" role="presentation">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;" role="presentation">
+                              <tbody>
+                              <tr>
+                                  <th class="inner" style="min-width: 5px; padding: 10px; vertical-align: top;  word-wrap: break-word; word-break: break-word;  word-wrap: break-word; word-break: break-word; font-weight: normal;" role="presentation">
+                                  <div data-editorblocktype="Text" style="margin: 10px;"><h3>Lorem ipsum dolor sit amet:</h3><ul><li style="margin-bottom:11px"><p><span style="font-size:14px;"><strong>Lorem ipsum dolor sit amet</strong> – &nbsp;consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></p></li><li style="margin-bottom:11px"><p><span style="font-size:14px;"><strong>Lorem ipsum dolor sit amet</strong> – &nbsp;consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></p></li><li style="margin-bottom:11px"><p><span style="font-size:14px;"><strong>Lorem ipsum dolor sit amet</strong> – &nbsp;consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span><br></p></li></ul></div></th>
+                              </tr>
+                              </tbody>
+                          </table>
+                          </th>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </th>
+              </tr>
+              </tbody>
+          </table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section" style="margin: 0px; border-radius: 0px;"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;" role="presentation">
+                  <tbody>
+                      <tr>
+                          <th style="padding: 1px 10px 2px; border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;" role="presentation">
+                  <table style="width: 100%;
+                border-collapse: collapse;" class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                      <tbody>
+                      <tr>
+                          <th data-container="true" class="columnContainer" data-container-width="100" style="vertical-align:top; min-width: 5px; width: 580px; ; height: 0px;" id="container38d64871c37721743722143002" role="presentation">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;" role="presentation">
+                              <tbody>
+                              <tr>
+                                  <th class="inner" style="min-width: 5px; padding: 10px; vertical-align: top;  word-wrap: break-word; word-break: break-word;  word-wrap: break-word; word-break: break-word; font-weight: normal;" role="presentation">
+                                  <div data-editorblocktype="Text" style="margin: 10px;"><h3>Lorem ipsum dolor sit amet:</h3></div></th>
+                              </tr>
+                              </tbody>
+                          </table>
+                          </th>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </th>
+              </tr>
+              </tbody>
+          </table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section" style="margin: 0px; border-radius: 0px;"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;" role="presentation">
+            <tbody>
+              <tr>
+                <th style="padding: 0px 10px 6px; border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;" role="presentation">
+                        <table style="width: 100%;
+                border-collapse: collapse;" class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0" role="presentation">
+                          <tbody>
+                            <tr>
+                              <th data-container="true" class="columnContainer" data-container-width="33" style="vertical-align:top; min-width: 5px; width: 191.40px; ; height: 0px;" id="container2de45bf47197b1743722373586" role="presentation">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;" role="presentation">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top;  word-wrap: break-word; word-break: break-word;  word-wrap: break-word; word-break: break-word; font-weight: normal;" role="presentation">
+                                      <div data-editorblocktype="Image" style="margin: 45px 10px 10px; padding: 0px;"><div align="center" class="imageWrapper" data-image-file-id="10f97360-9bd1-ee11-9079-002248217f5f" width="100%" style="width: 100%;"><img src="https://assets-usa.mkt.dynamics.com/07b140d7-3b8b-4e1f-8ee5-c5be0ae677ee/digitalassets/images/10f97360-9bd1-ee11-9079-002248217f5f?ts=638442143879510988" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px; margin-left: auto; margin-right: auto;"><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="67" style="vertical-align:top; min-width: 5px; width: 388.60px; ; height: 0px;" id="containere6a71af307c061743722373586" role="presentation">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;" role="presentation">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top;  word-wrap: break-word; word-break: break-word;  word-wrap: break-word; word-break: break-word; font-weight: normal;" role="presentation">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p>"<em>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</em>"</p><p><br></p><p><span style="color:#7a68ae;"><span style="font-size:12px;"><strong>Lorem ipsum dolor sit amet</strong></span></span></p><p><span style="font-size:10px;"><strong>Lorem ipsum dolor sit amet</strong></span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                    </tr>
+                  </tbody>
+                </table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section" style="margin: 0px; border-radius: 0px;"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;" role="presentation">
+                  <tbody>
+                      <tr>
+                          <th style="padding: 0px 10px 1px; border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;" role="presentation">
+                  <table style="width: 100%;
+                border-collapse: collapse;" class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                      <tbody>
+                      <tr>
+                          <th data-container="true" class="columnContainer" data-container-width="100" style="vertical-align:top; min-width: 5px; width: 580px; ; height: 0px;" id="container846574eadaa9a1743796483620" role="presentation">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;" role="presentation">
+                              <tbody>
+                              <tr>
+                                  <th class="inner" style="min-width: 5px; padding: 10px; vertical-align: top;  word-wrap: break-word; word-break: break-word;  word-wrap: break-word; word-break: break-word; font-weight: normal;" role="presentation">
+                                  <div data-editorblocktype="Text" style="margin: 10px;"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div></th>
+                              </tr>
+                              </tbody>
+                          </table>
+                          </th>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </th>
+              </tr>
+              </tbody>
+          </table></div><div data-section="true" class="columns-equal-class wrap-section" style="margin: 0px; border-radius: 0px;"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 600px; display: block;" role="presentation"><tbody><tr><th style="padding: 0px 30px; border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;" role="presentation"><table style="display: block;  width: 100%;  border-collapse: collapse;" class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation"><tbody><tr><th data-container="true" class="columnContainer" data-container-width="100" style="vertical-align: top; min-width: 5px; width: 540px; height: 0px;" id="containerc3962d01415a21647955574002" role="presentation"><table width="100%" cellpadding="0" cellspacing="0" role="presentation" style="height: 100%;"><tbody><tr><th class="inner ui-sortable" style="min-width: 5px; padding: 10px; vertical-align: top;  word-wrap: break-word; word-break: break-word; font-weight: normal;" role="presentation"><div data-editorblocktype="Button" align="center" style="margin: 0px; text-align: center;" class="buttonWrapper"><a class="buttonClass" href="#" style="text-align: center; margin-right: auto; margin-left: auto; display: inline-block; background-color: rgb(122, 104, 174); border-radius: 4px; color: rgb(255, 255, 255); width: fit-content; height: auto; padding: 10px 24px; max-width: 100%; border-color: rgb(255, 255, 255); border-width: 1px; border-style: none; font-size: 14px; text-decoration: none; vertical-align: middle; box-sizing: border-box; line-height: normal;mso-hide: none !important;" data-msdyn-tracking-id="3a11361139a241647872017157"><span style="font-family: Verdana, Arial, sans-serif; min-width: 1px; display: inline-block;">CTA</span></a></div></th></tr></tbody></table></th></tr></tbody></table></th></tr></tbody></table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section" style="margin: 0px; border-radius: 0px;"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;" role="presentation">
+                  <tbody>
+                      <tr>
+                          <th style="padding: 0px; border-color: rgb(10, 13, 49); border-width: 0px; border-style: none; border-radius: 0px;" role="presentation">
+                  <table style="width: 100%;
+                border-collapse: collapse;" class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                      <tbody>
+                      <tr>
+                          <th data-container="true" class="columnContainer" data-container-width="100" style="vertical-align: top; min-width: 5px; width: 600px; height: 0px; padding: 0px;" id="containere79bbc3ed2aef1743718322858" role="presentation">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;" role="presentation">
+                              <tbody>
+                              <tr>
+                                  <th class="inner" style="min-width: 5px; padding: 0px; vertical-align: top;  word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; background-color: rgba(0, 0, 0, 0); border-color: rgb(10, 13, 49); border-width: 0px; border-style: none; border-radius: 0px; font-weight: normal;" role="presentation">
+                                  <div data-editorblocktype="Divider" style="margin: 10px 0px; padding: 0px;"><div class="dividerWrapper" align="center"><table style="padding: 0px; margin: 0px; width: 100%; border-collapse: collapse;" role="presentation" cellpadding="0" cellspacing="0"><tbody><tr style="padding: 0px;"><th style="margin: 0px; padding: 0px; vertical-align: top; border-top-width: 5px; border-top-style: solid; border-top-color: rgb(122, 104, 174);"><p style="margin: 0px; padding: 0px; line-height: 0px; width: 100%;"><span><!--[if gte mso 9]><br/><![endif]-->&nbsp;</span></p></th></tr></tbody></table></div></div></th>
+                              </tr>
+                              </tbody>
+                          </table>
+                          </th>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </th>
+              </tr>
+              </tbody>
+          </table></div><div data-section="true" style="margin: 0px; border-radius: 0px;" class="columns-equal-class wrap-section"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 600px; display: block;" role="presentation"><tbody><tr><th style="padding: 0px 30px; background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-color: rgb(0, 0, 0); border-width: 0px; border-style: none;" role="presentation"><table style="display: block; width: 100%; border-collapse: collapse;" class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0" role="presentation"><tbody><tr><th data-container="true" class="columnContainer" data-container-width="100.00" style="vertical-align: top; min-width: 5px; width: 540px; height: 0px;" id="container217f82fa493991743717907824" role="presentation"><table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;" role="presentation">
+                         <tbody>
+                             <tr>
+                                 <th class="columnContainer inner" style="padding: 10px; min-width: 5px; vertical-align: top;  word-wrap: break-word; word-break: break-word; font-weight: normal;" role="presentation">
+                                 <div data-editorblocktype="Image" style="margin: 10px; padding: 0px;"><div align="Center" class="imageWrapper" data-image-file-id="b9835d33-e1cc-ee11-9079-000d3a573a0d"><a href="https://spectralogic.com/?utm_source=emailfooter&amp;utm_medium=email#_msdynmkt_donottrack=0,_msdynmkt_linkid=f8d8a117-b5bb-4e67-9396-d729676d3993" data-msdyn-tracking-id="5753ea202aa271743721367439"><img src="https://assets-usa.mkt.dynamics.com/07b140d7-3b8b-4e1f-8ee5-c5be0ae677ee/digitalassets/images/b9835d33-e1cc-ee11-9079-000d3a573a0d?ts=638436946190915540" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 124px; height: 39px; border-radius: 0px;" width="124" height="39"></a></div></div><div data-editorblocktype="Text"><p style="text-align: center;"><span style="font-size:11px;"><span style="color:#605e5c;">+1 303.449.6400 | www.spectralogic.com</span>&nbsp;</span><br><span style="color:#605e5c;"><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:11px;">© 2025. Spectra Logic Corporation. All rights reserved.</span></span></span></p><p style="text-align: center;">&nbsp;<span style="color:#605e5c;"><span style="font-size:11px;"><span style="font-family:Verdana,Geneva,sans-serif;"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="-1" role="region" aria-label="widgetLabel">{{CompanyAddress}}</span>​</span></span><br><span style="color:#605e5c;"><span style="font-size:11px;"><span style="font-family:Verdana,Geneva,sans-serif;"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><a href="https://assets-usa.mkt.dynamics.com/07b140d7-3b8b-4e1f-8ee5-c5be0ae677ee/digitalassets/standaloneforms/17c246df-c913-f011-998a-000d3a1db691#_msdynmkt_donottrack=0,_msdynmkt_linkid=01ececf1-1598-457c-b87a-f011e90c521e"><span style="color:#605e5c;"><span style="font-size:11px;"><span style="font-family:Verdana,Geneva,sans-serif;"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span style="color:#605e5c;"><span style="font-size:11px;"><span style="font-family:Verdana,Geneva,sans-serif;"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel"><span tabindex="0" role="region" aria-label="widgetLabel">Preference Center</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></a>&nbsp;|&nbsp;<a href="{{Preferencecenter}}#_msdynmkt_donottrack=0,_msdynmkt_linkid=11327109-36ad-4732-ae31-7fae0f427dce">Unsubscribe</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>​​​​​​​<br></p></div></th>
+                             </tr>
+                         </tbody>
+                     </table></th></tr></tbody></table></th></tr></tbody></table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section" style="margin: 0px; border-radius: 0px;"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;" role="presentation">
+                  <tbody>
+                    <tr>
+                      <th style="padding: 1px 2px 0px; border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;" role="presentation">
+                        <table style="width: 100%;
+                border-collapse: collapse;" class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0" role="presentation">
+                          <tbody>
+                            <tr>
+                              <th data-container="true" class="columnContainer" data-container-width="20.00" style="vertical-align: top; min-width: 5px; width: 119.20px; height: 0px;" id="container8cbeb46371ecb1743721071810">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top;  word-wrap: break-word; word-break: break-word;  word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      </th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="20.00" style="vertical-align: top; min-width: 5px; width: 119.20px; height: 0px;" id="containera454548799abd1743721071810" role="presentation">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;" role="presentation">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top;  word-wrap: break-word; word-break: break-word;  word-wrap: break-word; word-break: break-word; font-weight: normal;" role="presentation">
+                                      <div data-editorblocktype="Image" style="margin: 10px; padding: 0px;"><div align="right" class="imageWrapper" style="width: 100%;" data-image-file-id="7f26a485-b5d1-ee11-9079-002248217f5f" width="100%"><a href="https://www.linkedin.com/company/spectra-logic?utm_source=emailfooter&amp;utm_medium=email#_msdynmkt_donottrack=0,_msdynmkt_linkid=99352acd-c3ef-4178-b20d-7c2ba987e463" data-msdyn-tracking-id="4637c2ee635b61743721423080"><img src="https://assets-usa.mkt.dynamics.com/07b140d7-3b8b-4e1f-8ee5-c5be0ae677ee/digitalassets/images/7f26a485-b5d1-ee11-9079-002248217f5f?ts=638442256093509584" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 26px; height: 26px; border-radius: 0px; margin-left: auto; margin-right: 0px;" width="26" height="26"></a><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="20.00" style="vertical-align: top; min-width: 5px; width: 119.20px; height: 0px; padding: 0px;" id="containerf60ab3bdc08e1743721071810" role="presentation">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;" role="presentation">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px 9px 10px 6px; vertical-align: top;  word-wrap: break-word; word-break: break-word;  word-wrap: break-word; word-break: break-word; background-color: rgba(0, 0, 0, 0); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px; font-weight: normal;" role="presentation">
+                                      <div data-editorblocktype="Image" style="margin: 5px; padding: 0px;"><div align="Center" class="imageWrapper" data-image-file-id="7c26a485-b5d1-ee11-9079-002248217f5f"><a href="https://www.youtube.com/user/spectralogic?utm_source=emailfooter&amp;utm_medium=email#_msdynmkt_donottrack=0,_msdynmkt_linkid=b90b3acf-bc06-4f99-b494-c5e4e83fcf25" data-msdyn-tracking-id="2cfeb7712944c1743796165338"><img src="https://assets-usa.mkt.dynamics.com/07b140d7-3b8b-4e1f-8ee5-c5be0ae677ee/digitalassets/images/7c26a485-b5d1-ee11-9079-002248217f5f?ts=638442256093509584" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 34px; height: 34px; border-radius: 0px;" width="34" height="34"></a></div></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                            <th data-container="true" class="columnContainer" data-container-width="20.00" style="vertical-align: top; min-width: 5px; width: 119.20px; height: 0px;" id="containerbaf7457a2c2331743721087170" role="presentation"><table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;" role="presentation">
+                         <tbody>
+                             <tr>
+                                 <th class="columnContainer inner" style="padding: 10px; min-width: 5px; vertical-align: top;  word-wrap: break-word; word-break: break-word; font-weight: normal;" role="presentation">
+                                 <div data-editorblocktype="Image" style="margin: 8px 8px 8px 7px; padding: 0px;"><div align="left" class="imageWrapper" style="width: 100%;" data-image-file-id="8026a485-b5d1-ee11-9079-002248217f5f" width="100%"><a href="https://x.com/spectralogic?utm_source=emailfooter&amp;utm_medium=email#_msdynmkt_donottrack=0,_msdynmkt_linkid=24867ad1-5379-4c7d-814c-17ba89766008" data-msdyn-tracking-id="f2c2e680995331743721489251"><img src="https://assets-usa.mkt.dynamics.com/07b140d7-3b8b-4e1f-8ee5-c5be0ae677ee/digitalassets/images/8026a485-b5d1-ee11-9079-002248217f5f?ts=638442256096790998" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 27px; height: 27px; border-radius: 0px; margin-left: 0px; margin-right: auto;" width="27" height="27"></a><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div></div></th>
+                             </tr>
+                         </tbody>
+                     </table></th><th data-container="true" class="columnContainer" data-container-width="20.00" style="vertical-align: top; min-width: 5px; width: 119.20px; height: 0px;" id="containera6ddda039f2021743721089323"><table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                         <tbody>
+                             <tr>
+                                 <th class="columnContainer inner" style="padding: 10px; min-width: 5px; vertical-align: top;  word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                 </th>
+                             </tr>
+                         </tbody>
+                     </table></th></tr>
+                          </tbody>
+                        </table>
+                      </th>
+                    </tr>
+                </tbody>
+            </table></div></div></body></html>
